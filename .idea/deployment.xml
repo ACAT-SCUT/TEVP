@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="222.201.144.191">
+    <serverData>
+      <paths name="222.201.144.191">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/cloudsim/documentation" local="$PROJECT_DIR$/documentation" web="/" />
+            <mapping deploy="/cloudsim" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/cloudsim/distribution" local="$PROJECT_DIR$/distribution" web="/" />
+            <mapping deploy="/cloudsim/modules/cloudsim" local="$PROJECT_DIR$/modules/cloudsim" web="/" />
+            <mapping deploy="/cloudsim/modules" local="$PROJECT_DIR$/modules" web="/" />
+            <mapping deploy="/cloudsim/modules/cloudsim-experiment" local="$PROJECT_DIR$/modules/cloudsim-experiment" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
